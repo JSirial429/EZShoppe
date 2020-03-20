@@ -13,12 +13,23 @@
         <link href="CSS/Main.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <div align="left">
-            <a href="logIn.jsp">Sign In</a>
-        </div>    
-        <div align="right">
-            <img src="Images/shoppingcart24px.png">
+        <div>
+            <table style="width: 100%">
+                <tr>
+                    <td id="AccountLogin">
+                        <a href="logIn.jsp" title=" Account Login">
+                            <img src="Images/accountOutline.png">
+                        </a>
+                    </td>
+                    <td id="ShoppingCart">
+                        <a href="shoppingCart.jsp" title="Shopping Cart">
+                            <img src="Images/shoppingcart24px.png"
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </div>
+        <div id="Borders"></div>
         <br><br>
         <div >
             <table align="center">
