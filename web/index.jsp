@@ -31,7 +31,7 @@
         </div>
         <div id="Borders"></div>
         <br><br>
-        <div >
+        <div>
             <table align="center">
                 <tr>
                     <td>TVs</td>
@@ -40,7 +40,9 @@
                 </tr>
             </table>
         </div>
-        
+        <br><br>
+        <div id="Borders"></div>
+        <br><br>
         <div align="center">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></div>
     </body>
 </html>
