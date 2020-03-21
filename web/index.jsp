@@ -34,11 +34,15 @@
         <div>
             <table align="center">
                 <tr>
-                    <td>TVs</td>
-                    <td>Games</td>
-                    <td>Cell Phones</td>
+                    <td id="Font">TVs</td>
+                    <td id="Font">Games</td>
+                    <td id="Font">Cell Phones</td>
                 </tr>
             </table>
+        </div>
+        <br><br>
+        <div align="Center">
+            <img src="Images/EZShoppe_Logo.png" alt="EZ Shooping Logo">
         </div>
         <br><br>
         <div id="Borders"></div>
