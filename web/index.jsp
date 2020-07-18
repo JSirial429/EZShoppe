@@ -9,6 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <title>EZ Shoppe</title>
         <link href="CSS/Main.css" rel="stylesheet" type="text/css">
     </head>
@@ -23,7 +24,7 @@
                     </td>
                     <td id="ShoppingCart">
                         <a href="shoppingCart.jsp" title="Shopping Cart">
-                            <img src="Images/shoppingcart24px.png"
+                            <img src="Images/shoppingcart24px.png">
                         </a>
                     </td>
                 </tr>
@@ -31,14 +32,15 @@
         </div>
         <div id="Borders"></div>
         <br><br>
-        <div>
-            <table align="center">
+        <div class="container" align="center">
+            <h1>Test</h1>
+            <!--<table align="center">
                 <tr>
                     <td id="Font">TVs</td>
                     <td id="Font">Games</td>
                     <td id="Font">Cell Phones</td>
                 </tr>
-            </table>
+            </table>-->
         </div>
         <br><br>
         <div align="Center">
